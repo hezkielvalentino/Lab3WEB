@@ -2,7 +2,7 @@
 ## Langkah - Langkah Praktikum
 ### Membuat Ordered List
 Buat file baru dengan extension HTML dan buatlah code seperti gambar berikut
-![Ordered List](Screeshot/OrderedList.png)
+![Ordered List](Screenshot/OrderedList.png)
 ![Output Ordered List](Screenshot/OutoutOrderedList.png)
 ### Membuat Unordered List
 Langkah berikutnya tambah code,setelah deklarasi ordered list pada section Unordered List pada file yang sama ikuti dengan code yang ada pada gambar berikut
