@@ -1,5 +1,5 @@
 # Lab3WEB
-## Langkah - Praktikum
+## Langkah - Langkah Praktikum
 ### Membuat Ordered List
 Buat file baru dengan extension HTML dan buatlah code seperti gambar berikut
 ![Ordered List](Screeshot/OrderedList.png)
