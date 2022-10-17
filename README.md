@@ -14,7 +14,7 @@ Tambahkan code untuk membuat description list setelah deklarasi unordered List
 ![Output Description List](Screenshot/OutoutOrderedList.png)
 ### Membuat Tabel
 Buat file baru dengan nama lab3_tabel.html, Selanjutnya tambahkan code untuk membuat tabel sederhana seperti gambar berikut
-![Tabel](Screenshot/Tabel.png)
+![Tabel1](Screenshot/Tabel.png)
 [Output Tabel](Screenshot/Outputtabel.png)
 ### Mengatur Margin dan Padding
 Untuk mengatur Margin dan Padding pada cell data, tambahkan atribut cellpadding dan cellspacing pada tag table. `<table border="1"cellpadding="6" cellspacing="0">`
